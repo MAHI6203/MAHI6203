@@ -55,8 +55,14 @@
 
 📫 **Connect With Me**
 
-- [LinkedIn](https://www.linkedin.com/in/imuday/)
-- [GitHub](https://github.com/MAHI6203)
+<p align="center">
+  <a href="https://www.linkedin.com/in/imuday/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/MAHI6203" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ---
 
