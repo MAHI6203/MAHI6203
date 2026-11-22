@@ -1,94 +1,79 @@
-<!-- Optional: Add a custom header/banner image -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A62A8&lines=Hello+World!+👋;I'm+Sri+Uday+Kiran+Sai+Mahesh+Yerramsetti;Backend+Developer+%7C+Django+%7C+Python;Welcome+to+my+GitHub+Profile!" />
-</p>
+<div align="center">
 
-<h1 align="center">🌐 Backend Developer | Python & Django Enthusiast</h1>
+# Hi, I'm Sri Uday Kiran Sai Mahesh Yerramsetti 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/imuday/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/MAHI6203" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Badge"/>
-  </a>
-  <a href="mailto:udaykiransaimahesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
-  </a>
-</p>
+### Computer Science Graduate | Networking, Cloud Infrastructure & Backend Development
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imuday/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MAHI6203)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykiransaimahesh@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 CSE-Cybersecurity Graduate from **CMR College of Engineering & Technology**  
-💡 Passionate about solving real-world problems through backend development  
-🛠️ Currently focused on: `Django`, `REST APIs`, and `Database Optimization`  
-📌 Always learning & building cool stuff on the web  
+I am a Computer Science and Engineering graduate from **CMR College of Engineering & Technology**, with a cybersecurity background and training in networking and cloud infrastructure. I completed Systems Engineer Trainee training at **Infosys** and am now looking for opportunities where I can build on my technical foundation.
 
----
+My training covered Java, object-oriented programming, data structures and algorithms, network configuration, and introductory AWS services. I also used **ServiceNow** for ticket resolution and **Ansible** to automate router configuration tasks.
 
-## 🧰 Tech Stack
+I am interested in roles across **network engineering, network automation, cloud infrastructure, and backend development**.
 
-| Languages | Web Dev | Databases | Tools |
-|----------|---------|-----------|-------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+## Skills
 
----
+| Area | Skills and tools |
+|---|---|
+| Programming | Java, Python, OOP, Data Structures & Algorithms |
+| Networking | Routing and switching, EIGRP, OSPF, BGP, ACLs, DHCP, DNS, NAT, HSRP, VRRP, NTP |
+| Automation & ITSM | Ansible, YAML playbooks, inventory/hosts files, credentials files, ServiceNow, ticket resolution |
+| Cloud learning | Amazon EC2, Amazon S3 |
+| Web & data | Django, Bootstrap, PostgreSQL, SQLite, HTML |
+| Tools | Git, Visual Studio Code |
 
-## 🚀 Featured Project
+## Training Experience
 
-### 🔹 [TaskMate](https://github.com/MAHI6203/TASKMATE)
-> A responsive task management app built with Django, PostgreSQL & Bootstrap
+### Infosys — Systems Engineer Trainee (Training)
 
-📌 **Features**  
-✔️ User Authentication (Login, Register)  
-✔️ CRUD Operations for Tasks  
-✔️ Responsive UI  
-✔️ Role-based access  
+- Completed foundational training in **Java, Object-Oriented Programming (OOP), and Data Structures & Algorithms (DSA)**.
+- Specialized in **Cloud Infrastructure Services – Networking**, with training in router configuration and networking concepts.
+- Practiced routing and network topics including **EIGRP, OSPF, BGP, ACLs, DHCP, DNS, NAT, HSRP, VRRP, and NTP**.
+- Used **Ansible** for router configuration automation: created and edited playbooks and prepared hosts/inventory and credentials files.
+- Used **ServiceNow** during training to work on and resolve tickets.
 
-📦 **Stack**: Django, Python, Bootstrap, PostgreSQL  
+## AWS Training
 
-📸 **Screenshots Coming Soon!**
+- **Introduction to Amazon EC2** — introductory learning on cloud compute and virtual server instances.
+- **Introduction to Amazon Simple Storage Service (S3)** — introductory learning on cloud object storage and buckets.
 
----
+*These are listed as completed training courses, not professional AWS certifications.*
 
-## ⚡ Other Project
+## Projects
 
-### 🔹 Gesture-Based Music Control System
-🎶 Built using Python & Arduino for hands-free music control using gestures  
-🏆 *Won Social Innovation Project of the Year* at CMRCET  
-📈 95% adoption rate & energy-efficient performance  
+### [TaskMate](https://github.com/MAHI6203/TASKMATE)
+A responsive task management application built with **Django, Python, PostgreSQL, and Bootstrap**.
 
----
+- User registration and login
+- Task creation and management (CRUD)
+- Responsive interface
+- Role-based access
 
-## 📈 GitHub Stats
+### Gesture-Based Music Control System
+A hands-free music control project built with **Python and Arduino**, using gestures to control music playback.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHI6203&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHI6203&theme=tokyonight&hide_border=false" />
-</p>
+- Recognized as **Social Innovation Project of the Year** at CMRCET.
+- The original project description reports 95% adoption; see the project materials for details.
 
----
+## Connect
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/imuday/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/MAHI6203">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:udaykiransaimahesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- **LinkedIn:** [linkedin.com/in/imuday](https://www.linkedin.com/in/imuday/)
+- **GitHub:** [github.com/MAHI6203](https://github.com/MAHI6203)
+- **Email:** [udaykiransaimahesh@gmail.com](mailto:udaykiransaimahesh@gmail.com)
 
 ---
 
-<p align="center">
-  ⭐ *Let's build something awesome together!* ⭐
-</p>
+<div align="center">
+
+⭐ Always learning, building, and open to new opportunities. ⭐
+
+</div>
